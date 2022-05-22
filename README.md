@@ -1,7 +1,7 @@
 # Mining-reddit-posts-on-EVs 
 The code in this repository can be used to mine a set of reddit posts through LDA topic modeling and Aspect Based Sentiment Analysis (ABSA):
-1. Use the code in “Git_Final_LDA_Mallet_Grouped.ipynb” to get the main themes (LDA topics) discussed in the collected posts.
-2. Use the code in “Word2Vec_Sentiment.ipynb” to get the sentiments for a selected set of aspects related to EVs. 
+1. Use the code in “LDA_Mallet_Grouped.ipynb” to get the main themes (LDA topics) discussed in the collected posts.
+2. Use the code in “ABSA.ipynb” to get the sentiments for a selected set of aspects related to EVs. 
 
 ## Notes:
 1. Please note that the list of aspects in step 2 is selected from the topics lists on step1
